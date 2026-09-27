@@ -1,0 +1,14 @@
+{
+  "name": "VerseKey Mobile",
+  "short_name": "VerseKey",
+  "description": "Apple Music 공유 링크로 번역 가사를 확인하는 개인용 웹앱",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0e0c",
+  "theme_color": "#111511",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
